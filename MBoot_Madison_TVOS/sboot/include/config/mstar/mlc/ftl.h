@@ -1,0 +1,1 @@
+#undef CONFIG_MSTAR_MLC_FTL

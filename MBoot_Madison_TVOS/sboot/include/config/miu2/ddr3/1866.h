@@ -1,0 +1,1 @@
+#undef CONFIG_MIU2_DDR3_1866

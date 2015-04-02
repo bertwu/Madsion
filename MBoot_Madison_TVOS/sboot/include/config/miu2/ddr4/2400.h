@@ -1,0 +1,1 @@
+#undef CONFIG_MIU2_DDR4_2400

@@ -1,0 +1,1 @@
+#define CONFIG_MSTAR_GPU_OTHERS 0

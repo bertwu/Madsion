@@ -1,0 +1,1 @@
+#undef CONFIG_BOOT_SPI_ECOS

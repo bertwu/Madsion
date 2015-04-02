@@ -1,0 +1,1 @@
+#define CONFIG_MSTAR_STR_CRC_SIZE 0x
